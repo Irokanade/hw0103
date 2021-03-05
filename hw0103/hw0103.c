@@ -11,7 +11,6 @@
 
 int main() {
     
-    print_answers();
     stringSwap(&pStr01, &pStr02);
     print_answers();
     
